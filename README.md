@@ -13,6 +13,11 @@ et nommées avec la dernière étape achevée qu'elles contiennent. Par exemple,
 faudra donc se positionner sur la branche précédente ('07_...'). La branche 'main' contient 
 le tutoriel intégralement complété.
 
+## Liens des différentes étapes du tutorial
+- [01_votre_1ere_application](https://docs.djangoproject.com/fr/5.2/intro/tutorial01/)
+- [02_votre_1ere_application](https://docs.djangoproject.com/fr/5.2/intro/tutorial02/)
+- 
+
 ## Infos utiles
 - La base de données est volontairement versionnée pour ne pas avoir à recréer les pages 
 à chaque fois.
