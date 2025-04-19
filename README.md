@@ -24,10 +24,20 @@ configuration de la base de données, création d'un premier modèle, intro au s
 création de vues.
 - [04_votre_1ere_application](https://docs.djangoproject.com/fr/5.2/intro/tutorial04/): 
 gestion de formulaires et réduction de code.
+- [05_votre_1ere_application](https://docs.djangoproject.com/fr/5.2/intro/tutorial05/): 
+création de tests automatisés.
+- [06_votre_1ere_application](https://docs.djangoproject.com/fr/5.2/intro/tutorial06/):
+gestion des fichiers statiques.
+- [07_votre_1ere_application](https://docs.djangoproject.com/fr/5.2/intro/tutorial07/):
+personnalisation de l'interface d'administration.
+- [08_votre_1ere_application](https://docs.djangoproject.com/fr/5.2/intro/tutorial08/):
+intégration du paquet tiers Django Debug Toolbar.
+
 
 ## Infos utiles
 - La base de données est volontairement versionnée pour ne pas avoir à recréer les pages 
 à chaque fois.
+- Un super-utilisateur est déjà créé. Id: `admin` / Mot de passe: `admin`.
 - Vous devez créer votre propre super-utilisateur pour accéder à l'administration, 
 avec la commande suivante dans le terminal : `python manage.py createsuperuser`.
 - Dans les chaînes de caractères dynamiques du tutorial, la partie dynamique est gérée
